@@ -1,1 +1,2 @@
-Mt First Git command
+My First Git command
+My Second Line
